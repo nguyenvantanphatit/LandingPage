@@ -1,7 +1,7 @@
 import { Button } from 'antd';
 import List from '../../Img/list.svg'
 import Grid from '../../Img/grid.svg'
-import './view.css'
+import './View.css'
 type ViewModeProps = {
   isGridView: boolean;
   onToggleView: () => void;
