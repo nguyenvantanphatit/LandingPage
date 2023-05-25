@@ -1,7 +1,7 @@
 import React from 'react';
 import { Row, Col } from 'antd';
 import { Link } from 'react-router-dom';
-import Profile_1 from '../../img/123.svg';
+import Profile_1 from '../../img/profile.svg';
 import facebook from '../../img/facebook.jpg';
 import ins from '../../img/ins.jpg';
 import git from '../../img/git.png';
