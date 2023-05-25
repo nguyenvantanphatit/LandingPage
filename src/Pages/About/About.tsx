@@ -1,7 +1,7 @@
 import React from 'react';
 import { Row, Col } from 'antd';
 import { Link } from 'react-router-dom';
-import Profile_1 from '../../img/profile.svg';
+// import Profile_1 from '../../img/123.svg';
 import facebook from '../../img/facebook.jpg';
 import ins from '../../img/ins.jpg';
 import git from '../../img/git.png';
@@ -14,13 +14,12 @@ const About: React.FC = () => {
         <div
             className="header-container"
             style={{
-                backgroundImage: `url(${Profile_1})`,
-                backgroundRepeat: 'no-repeat',
-                backgroundSize: 'cover',
-                borderRadius: '30px'
+                // backgroundImage: `url(${Profile_1})`,
+                // backgroundRepeat: 'no-repeat',
+                // backgroundSize: 'cover',
+                // borderRadius: '30px'
             }}
         >
-
             <Row
             >
                 <Col className="footer-social-icons">
